@@ -1,4 +1,5 @@
-vindiniumAI
-===========
+These libraries were used for the starter-kit for vindinium as well as the A* algorithm used in the AI.
 
-a simple AI for for the vindinium game, used: github.com/geetarista/vindinium-starter-go for the go lang starter kit and https://github.com/humanfromearth/gopathfinding for A* used in AI.
+	github.com/geetarista/vindinium-starter-go 
+
+	https://github.com/humanfromearth/gopathfinding
